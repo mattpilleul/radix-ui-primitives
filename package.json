@@ -85,7 +85,7 @@
     "chokidar": "3.4.3"
   },
   "engines": {
-    "node": ">=12",
+    "node": ">=12"
   },
   "jest": {
     "testEnvironment": "jsdom",
